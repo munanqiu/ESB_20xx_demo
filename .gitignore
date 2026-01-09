@@ -1,0 +1,94 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.bin
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+.vscode/
+EventRecorderStub.scvd
+JLinkLog.txt
+Prg_Output
+RF_Tester_9188.bin
+build_log
+compile_commands.json
+all.log
+setting.ini
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm / IntelliJ
+.idea/
+
+
+*.uvopt
+*.uvoptx
+*.uvguix.*
+*.json
+*.scvd
+
+
+
+.cache/
+output/
+listing/
+RTE/
+
+/Prg_Output
+/build_log
+
+
+
+01-code/RF_DUT_916/JLinkLog.txt
